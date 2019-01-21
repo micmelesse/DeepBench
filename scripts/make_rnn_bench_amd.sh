@@ -1,2 +1,2 @@
 cd code/amd
-make all
+make rnn
